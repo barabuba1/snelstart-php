@@ -17,7 +17,7 @@
         "php": ">=8.2",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^8.2.0",
+        "guzzlehttp/guzzle": "^7.15.5",
         "guzzlehttp/psr7": "^3.1",
         "moneyphp/money": "^3.0|^4.0",
         "myclabs/php-enum": "^1.6",
